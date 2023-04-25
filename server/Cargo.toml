@@ -1,5 +1,5 @@
 [package]
-name = "server"
+name = "vape_detector_messaging_server"
 version = "0.1.0"
 edition = "2021"
 
